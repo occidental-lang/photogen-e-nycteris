@@ -1,0 +1,20 @@
+[book]
+authors = ["Antoine de Saint-Exupéry","Thomas Schmidt"]
+language = "ie"
+multilingual = false
+src = "src"
+title = "Li Litt Prince"
+description = "Traduction de Le Petit Prince in Interlingue / Occidental."
+
+[output.html]
+theme = "src/theme"
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/occidental-lang/LiLittPrince"
+site-url = "/LiLittPrince/"
+
+[output.html.fold]
+enable = false
+
+[build]
+build-dir = "docs"
