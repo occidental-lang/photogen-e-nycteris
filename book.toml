@@ -4,7 +4,7 @@ language = "ie"
 multilingual = false
 src = "src"
 title = "Li Romance de Photogen e Nycteris"
-description = "Traduction de Li Romance de Photogen e Nycteris in Interlingue / Occidental."
+description = "Traduction de The Day Boy and Night Girl (The Romance of Photogen and Nycteris) by George MacDonald in Interlingue / Occidental."
 
 [output.html]
 theme = "src/theme"
