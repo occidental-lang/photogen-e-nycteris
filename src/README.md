@@ -5,8 +5,7 @@
 
 ## (Li Yuno del Jorne e li Yuna del Nocte)
 
-
-
+<p style="text-align:center;"><img src="img/cover.jpg"></p>
 
 <p style="text-align:center;">de George MacDonald – 1882</p>
 
