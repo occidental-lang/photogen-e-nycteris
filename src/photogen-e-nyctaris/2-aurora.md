@@ -1,0 +1,9 @@
+# Aurora
+
+TI ci sorciera fat du damas visitar la. Un ex ili apartenet al corte, e su marito hat esset misset ye un legation lontan e desfacil. Li altra esset un yun vidua quel marito hat recentmen morit, e qui desde tande hat perdit su vision. Watho fat las logiar in diferent partes de su castelle, e li un ne conosset li existentie del altre.
+
+Li castelle stat ye li látere de un coline con un mild declive ad in un strett valley, in quel trovat se un rivere con un lapidettosi canalette e un cante íncessant. Li jardin continuat til li rive, includet per alt mures, queles transeat li rivere e haltat ta. Chascun mur havet un duplic range de parapetes, e inter li parapetes esset un strett promenuore.
+
+In li max alt etage del castelle, li Dama Aurora ocupat un spaciosi apartament con pluri chambres frontant li sude. Li fenestres projectet se quam orieles sur li jardin infra, e ex ili li spectacul esset splendid, e supra e infra, anc trans li rivere. Li látere vis a vis li valley esset scarpat, ma ne tre alt. In li lontanie videt se cimes covrit con nive. Aurora tre rarmen forlassat li chambres, ma lor ventilat spacies, li paisage e ciel brilliant, li abundant luce del sole, li instrumentes musical, libres, picturas, curiositás, junt con li acompaniada de Watho, qui hat fat se charmant, impedit omni faditá. Quam manjage ella havet savagine e volallia plumat, quam trincage lacte, e un vin clar quel brilliat in li luce del sole.
+
+Ella possedet un capillatura de yelb aurin, undulant e undetteant; su pelle esset blond, ne blanc quam ti de Watho, e su ocules possedet li blu del cieles a su max alt bluitá, su trates esset delicat ma fort, su munde grand e finmen curvat, u subrides frequentat.

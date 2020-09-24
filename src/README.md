@@ -1,11 +1,16 @@
 
 ---
 
-# Li Litt Prince
+# Li Romance de Photogen e Nycteris
 
-<p style="text-align:center;">de Antoine de Saint-Exupéry</p>
+## (Li Yuno del Jorne e li Yuna del Nocte)
 
-<p style="text-align:center;">Traductet de Thomas Schmidt</p>
+
+
+
+<p style="text-align:center;">de George MacDonald – 1882</p>
+
+<p style="text-align:center;">Traduction in Occidental (Interlingue): David MacLeod – 2019</p>
 
 ---
 

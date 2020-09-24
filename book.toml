@@ -1,17 +1,17 @@
 [book]
-authors = ["Antoine de Saint-Exupéry","Thomas Schmidt"]
+authors = ["George MacDonald","David MacLeod"]
 language = "ie"
 multilingual = false
 src = "src"
-title = "Li Litt Prince"
-description = "Traduction de Le Petit Prince in Interlingue / Occidental."
+title = "Li Romance de Photogen e Nycteris"
+description = "Traduction de Li Romance de Photogen e Nycteris in Interlingue / Occidental."
 
 [output.html]
 theme = "src/theme"
-default-theme = "light"
-preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/occidental-lang/LiLittPrince"
-site-url = "/LiLittPrince/"
+default-theme = "rust"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/occidental-lang/photogen-e-nycteris"
+site-url = "/photogen-e-nycteris/"
 
 [output.html.fold]
 enable = false
