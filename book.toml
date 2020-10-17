@@ -12,6 +12,7 @@ default-theme = "rust"
 preferred-dark-theme = "ayu"
 git-repository-url = "https://github.com/occidental-lang/photogen-e-nycteris"
 site-url = "/photogen-e-nycteris/"
+google-analytics = "UA-151655688-1"
 
 [output.html.fold]
 enable = false
